@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shopping Items</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      margin: 2rem;
+      background: #f7f5ef;
+      color: #22303c;
+    }
+
+    main {
+      max-width: 60rem;
+      margin: 0 auto;
+      background: #fffdf8;
+      padding: 2rem;
+      border: 1px solid #d8cfbf;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border-bottom: 1px solid #e4dccd;
+      padding: 0.75rem;
+      text-align: left;
+    }
+
+    a {
+      color: #8c3d1f;
+      text-decoration: none;
+    }
+
+    .meta {
+      margin: 1rem 0;
+      color: #5b6470;
+    }
+
+    .pagination {
+      margin-top: 1.5rem;
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Shopping Items</h1>
+    <p>This page lists items imported from the offline CSV dataset and linked to their categories.</p>
+
+    <form method="get">
+      <label for="search">Search by name</label>
+      <input id="search" name="search" value="{{ search_query|default:'' }}" placeholder="e.g. rice">
+      <button type="submit">Search</button>
+    </form>
+
+    <p class="meta">
+      Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}.
+      Showing up to 10 items per page.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Category</th>
+          <th>Brand</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for item in items %}
+          <tr>
+            <td>{{ item.id }}</td>
+            <td><a href="{% url 'item_detail' item.id %}">{{ item.name }}</a></td>
+            <td>{{ item.category.name }}</td>
+            <td>{{ item.brand|default:"-" }}</td>
+            <td>{{ item.price }} {{ item.currency }}</td>
+          </tr>
+        {% empty %}
+          <tr>
+            <td colspan="5">No items have been imported yet.</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <div class="pagination">
+      {% if page_obj.has_previous %}
+        <a href="?page={{ page_obj.previous_page_number }}{% if search_query %}&search={{ search_query }}{% endif %}">Previous</a>
+      {% endif %}
+
+      <span>Current page: {{ page_obj.number }}</span>
+
+      {% if page_obj.has_next %}
+        <a href="?page={{ page_obj.next_page_number }}{% if search_query %}&search={{ search_query }}{% endif %}">Next</a>
+      {% endif %}
+    </div>
+  </main>
+</body>
+</html>

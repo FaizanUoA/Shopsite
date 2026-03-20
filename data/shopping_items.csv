@@ -1,0 +1,31 @@
+source_code,name,category_code,brand,price,currency,size,description
+I001,Basmati Rice,DRY,North Farm,2.40,GBP,1 kg,Long-grain aromatic rice.
+I002,Wholewheat Pasta,DRY,Pasta House,1.35,GBP,500 g,Wholewheat penne for quick meals.
+I003,Red Lentils,DRY,North Farm,1.10,GBP,500 g,Fast-cooking red lentils.
+I004,Porridge Oats,DRY,Morning Mill,1.20,GBP,1 kg,Scottish oats for breakfast.
+I005,Couscous,DRY,Golden Grain,1.05,GBP,500 g,Quick-cook couscous.
+I006,Apple Juice,DRK,Fresh Press,1.75,GBP,1 L,Pressed cloudy apple juice.
+I007,Orange Juice,DRK,Fresh Press,1.80,GBP,1 L,Smooth orange juice.
+I008,Green Tea,DRK,Leaf & Co,2.95,GBP,20 bags,Light green tea bags.
+I009,Ground Coffee,DRK,Bean Yard,3.60,GBP,250 g,Medium roast ground coffee.
+I010,Still Water,DRK,Spring Vale,0.65,GBP,1.5 L,Natural still spring water.
+I011,Dark Chocolate,SNK,Cocoa Lane,1.60,GBP,100 g,70 percent cocoa chocolate bar.
+I012,Sea Salt Crisps,SNK,Crunch Works,1.25,GBP,150 g,Sea salt potato crisps.
+I013,Oat Biscuits,SNK,Tea Table,1.10,GBP,200 g,Oat biscuits for tea time.
+I014,Trail Mix,SNK,Nut Path,2.50,GBP,250 g,Mix of nuts and dried fruit.
+I015,Popcorn,SNK,Movie Night,0.95,GBP,90 g,Lightly salted popcorn.
+I016,Sourdough Loaf,BAK,Daily Bread,2.75,GBP,1 loaf,Slow-fermented sourdough loaf.
+I017,Bagels,BAK,Daily Bread,1.90,GBP,5 pack,Plain sliced bagels.
+I018,Croissants,BAK,Butter Corner,2.20,GBP,4 pack,All-butter croissants.
+I019,Tortilla Wraps,BAK,Kitchen Fold,1.50,GBP,8 pack,Soft wheat tortilla wraps.
+I020,Blueberry Muffins,BAK,Butter Corner,2.80,GBP,4 pack,Soft muffins with blueberries.
+I021,Frozen Peas,FRZ,Cold Field,1.15,GBP,500 g,Sweet garden peas.
+I022,Frozen Berries,FRZ,Cold Field,3.20,GBP,400 g,Mixed berries for smoothies.
+I023,Vegetable Pizza,FRZ,Stone Oven,3.95,GBP,1 pizza,Thin-crust vegetable pizza.
+I024,Fish Fingers,FRZ,Harbour Catch,2.85,GBP,12 pack,Breaded fish fingers.
+I025,Ice Cream Vanilla,FRZ,Sweet Scoop,3.40,GBP,900 ml,Classic vanilla ice cream.
+I026,Dish Soap,HOU,Shine Home,1.30,GBP,500 ml,Lemon dishwashing liquid.
+I027,Laundry Powder,HOU,Shine Home,4.50,GBP,1.2 kg,Laundry powder for colours.
+I028,Paper Towels,HOU,Home Roll,2.10,GBP,2 rolls,Absorbent kitchen paper towels.
+I029,Hand Soap,HOU,Clean Hands,1.45,GBP,250 ml,Gentle liquid hand soap.
+I030,Bin Bags,HOU,Home Roll,2.35,GBP,20 bags,Drawstring bin bags.

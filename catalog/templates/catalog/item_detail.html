@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ item.name }}</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      margin: 2rem;
+      background: #f7f5ef;
+      color: #22303c;
+    }
+
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+      background: #fffdf8;
+      padding: 2rem;
+      border: 1px solid #d8cfbf;
+    }
+
+    dt {
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+
+    a {
+      color: #8c3d1f;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <p><a href="{% url 'item_list' %}">Back to all items</a></p>
+    <h1>{{ item.name }}</h1>
+    <dl>
+      <dt>ID</dt>
+      <dd>{{ item.id }}</dd>
+
+      <dt>Source Code</dt>
+      <dd>{{ item.source_code }}</dd>
+
+      <dt>Category</dt>
+      <dd>{{ item.category.name }}</dd>
+
+      <dt>Category Description</dt>
+      <dd>{{ item.category.description|default:"No category description available." }}</dd>
+
+      <dt>Brand</dt>
+      <dd>{{ item.brand|default:"-" }}</dd>
+
+      <dt>Price</dt>
+      <dd>{{ item.price }} {{ item.currency }}</dd>
+
+      <dt>Size</dt>
+      <dd>{{ item.size|default:"-" }}</dd>
+
+      <dt>Description</dt>
+      <dd>{{ item.description|default:"No description available." }}</dd>
+    </dl>
+  </main>
+</body>
+</html>
