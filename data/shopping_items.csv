@@ -98,4 +98,404 @@ I096,Honey,DRY,Meadow Gold,3.80,GBP,340 g,Pure set blossom honey.
 I097,Passata,DRY,Harvest Tin,1.25,GBP,500 g,Smooth tomato passata.
 I098,Soy Sauce,DRY,Golden Wok,2.10,GBP,150 ml,Dark soy sauce for cooking.
 I099,Peanut Butter,SNK,Nut Path,2.95,GBP,340 g,Smooth roasted peanut butter.
-I100,Sparkling Lemonade,DRK,Fizzy Vale,1.20,GBP,500 ml,Sparkling cloudy lemonade.
+I100,Sparkling Lemonade,DRK,Fizzy Vale,1.20,GBP,500 ml,Sparkling cloudy lemonade.I101,White Rice,DRY,North Farm,1.95,GBP,1 kg,Long-grain white rice.
+I102,Arborio Rice,DRY,Golden Grain,2.50,GBP,500 g,Creamy risotto rice.
+I103,Black Beans,DRY,Harvest Tin,0.80,GBP,400 g,Canned black beans in water.
+I104,Kidney Beans,DRY,Harvest Tin,0.75,GBP,400 g,Canned red kidney beans.
+I105,Cannellini Beans,DRY,Harvest Tin,0.80,GBP,400 g,Soft white beans in water.
+I106,Butter Beans,DRY,Harvest Tin,0.80,GBP,400 g,Large canned butter beans.
+I107,Lentil Soup,DRY,Harvest Tin,1.20,GBP,400 g,Ready-made canned lentil soup.
+I108,Tomato Soup,DRY,Harvest Tin,1.10,GBP,400 g,Classic canned tomato soup.
+I109,Vegetable Broth,DRY,North Farm,1.80,GBP,1 L,Low-salt vegetable stock.
+I110,Chicken Stock,DRY,North Farm,1.80,GBP,1 L,Golden chicken stock liquid.
+I111,Wholegrain Mustard,DRY,Groves of Italy,1.95,GBP,190 g,Stoneground wholegrain mustard.
+I112,White Wine Vinegar,DRY,Groves of Italy,1.50,GBP,350 ml,Mild white wine vinegar.
+I113,Apple Cider Vinegar,DRY,Meadow Gold,2.40,GBP,500 ml,Raw unfiltered cider vinegar.
+I114,Balsamic Vinegar,DRY,Groves of Italy,3.20,GBP,250 ml,Aged balsamic vinegar of Modena.
+I115,Table Salt,DRY,Golden Grain,0.55,GBP,750 g,Fine table salt.
+I116,Black Pepper,DRY,Golden Grain,1.40,GBP,50 g,Ground black pepper.
+I117,Paprika,DRY,Golden Grain,1.20,GBP,50 g,Sweet smoked paprika.
+I118,Cumin,DRY,Golden Grain,1.15,GBP,50 g,Ground cumin spice.
+I119,Turmeric,DRY,Golden Grain,1.15,GBP,50 g,Ground turmeric powder.
+I120,Cinnamon,DRY,Golden Grain,1.20,GBP,50 g,Ground cinnamon spice.
+I121,Dried Oregano,DRY,Golden Grain,1.10,GBP,25 g,Dried Mediterranean oregano.
+I122,Dried Basil,DRY,Golden Grain,1.10,GBP,25 g,Dried sweet basil.
+I123,Chilli Flakes,DRY,Golden Grain,1.25,GBP,40 g,Dried crushed chilli flakes.
+I124,Curry Powder,DRY,Golden Grain,1.35,GBP,100 g,Mild curry seasoning blend.
+I125,Garam Masala,DRY,Golden Grain,1.30,GBP,100 g,Aromatic garam masala blend.
+I126,Cornflour,DRY,Golden Grain,0.90,GBP,250 g,Fine cornflour for thickening.
+I127,Cocoa Powder,DRY,Cocoa Lane,2.20,GBP,250 g,Unsweetened cocoa powder.
+I128,Icing Sugar,DRY,Golden Grain,1.20,GBP,500 g,Fine icing sugar for baking.
+I129,Brown Sugar,DRY,Golden Grain,1.35,GBP,500 g,Soft light brown sugar.
+I130,Maple Syrup,DRY,Meadow Gold,4.50,GBP,250 ml,Pure Canadian maple syrup.
+I131,Strawberry Jam,DRY,Meadow Gold,2.10,GBP,340 g,Strawberry fruit conserve.
+I132,Marmalade,DRY,Meadow Gold,2.20,GBP,340 g,Thick cut orange marmalade.
+I133,Pesto Basil,DRY,Groves of Italy,2.50,GBP,190 g,Classic basil and pine nut pesto.
+I134,Tomato Puree,DRY,Harvest Tin,0.85,GBP,200 g,Concentrated double tomato puree.
+I135,Dried Apricots,DRY,Nut Path,2.80,GBP,200 g,Ready-to-eat dried apricots.
+I136,Sultanas,DRY,Nut Path,1.95,GBP,500 g,Plump golden sultanas.
+I137,Desiccated Coconut,DRY,Island Gold,1.60,GBP,200 g,Fine desiccated coconut.
+I138,Almond Flour,DRY,Nut Path,4.50,GBP,400 g,Blanched fine almond flour.
+I139,Flaxseeds,DRY,North Farm,2.10,GBP,500 g,Golden whole flaxseeds.
+I140,Chia Seeds,DRY,North Farm,3.20,GBP,250 g,Organic black chia seeds.
+I141,Sesame Seeds,DRY,Golden Grain,1.40,GBP,100 g,Hulled white sesame seeds.
+I142,Sunflower Seeds,DRY,Nut Path,1.80,GBP,250 g,Roasted sunflower seeds.
+I143,Pumpkin Seeds,DRY,Nut Path,2.20,GBP,200 g,Raw organic pumpkin seeds.
+I144,Walnuts,DRY,Nut Path,3.50,GBP,200 g,Halved walnuts.
+I145,Almonds,DRY,Nut Path,3.80,GBP,200 g,Whole blanched almonds.
+I146,Hazelnuts,DRY,Nut Path,3.20,GBP,200 g,Whole roasted hazelnuts.
+I147,Pistachio Nuts,DRY,Nut Path,4.20,GBP,150 g,Roasted salted pistachios.
+I148,Breadcrumbs,DRY,Golden Grain,1.10,GBP,400 g,Fine dried breadcrumbs.
+I149,Dried Yeast,DRY,Morning Mill,0.85,GBP,7 g,Fast-action dried yeast sachet.
+I150,Bicarbonate of Soda,DRY,Golden Grain,0.75,GBP,200 g,Pure bicarbonate of soda.
+I151,Grape Juice,DRK,Fresh Press,2.10,GBP,1 L,Dark pressed grape juice.
+I152,Tomato Juice,DRK,Fresh Press,1.95,GBP,1 L,Smooth drinking tomato juice.
+I153,Coconut Water,DRK,Island Gold,1.80,GBP,330 ml,Natural coconut water.
+I154,Almond Milk,DRK,Nut Path,1.90,GBP,1 L,Unsweetened almond milk.
+I155,Oat Milk,DRK,Morning Mill,1.85,GBP,1 L,Barista-style oat milk.
+I156,Soya Milk,DRK,North Farm,1.75,GBP,1 L,Unsweetened soya milk.
+I157,Decaf Coffee,DRK,Bean Yard,3.80,GBP,250 g,Swiss water decaf ground coffee.
+I158,Espresso Pods,DRK,Bean Yard,4.50,GBP,10 pods,Nespresso-compatible espresso pods.
+I159,Earl Grey Tea,DRK,Leaf and Co,2.85,GBP,20 bags,Classic Earl Grey bergamot tea.
+I160,Black Tea,DRK,Leaf and Co,2.50,GBP,80 bags,Everyday blend black tea bags.
+I161,Raspberry Leaf Tea,DRK,Leaf and Co,3.10,GBP,20 bags,Organic raspberry leaf tea.
+I162,Ginger Tea,DRK,Leaf and Co,2.90,GBP,20 bags,Warming ginger and lemon tea.
+I163,Turmeric Latte Mix,DRK,Leaf and Co,4.20,GBP,250 g,Golden turmeric latte blend.
+I164,Protein Shake Choc,DRK,Boost Up,3.50,GBP,330 ml,Chocolate protein ready-to-drink.
+I165,Protein Shake Vanilla,DRK,Boost Up,3.50,GBP,330 ml,Vanilla protein ready-to-drink.
+I166,Cola,DRK,Fizzy Vale,1.10,GBP,2 L,Classic cola drink.
+I167,Diet Cola,DRK,Fizzy Vale,1.10,GBP,2 L,Sugar-free diet cola.
+I168,Ginger Beer,DRK,Fizzy Vale,1.40,GBP,330 ml,Spicy ginger beer can.
+I169,Elderflower Cordial,DRK,Meadow Gold,3.20,GBP,500 ml,Fragrant elderflower cordial.
+I170,Blackcurrant Squash,DRK,Fresh Press,1.80,GBP,1 L,Blackcurrant squash.
+I171,Orange Squash,DRK,Fresh Press,1.75,GBP,1 L,Orange no-added-sugar squash.
+I172,Iced Tea Lemon,DRK,Fizzy Vale,1.30,GBP,500 ml,Chilled lemon iced tea.
+I173,Iced Tea Peach,DRK,Fizzy Vale,1.30,GBP,500 ml,Chilled peach iced tea.
+I174,Kombucha,DRK,Leaf and Co,2.80,GBP,330 ml,Raw organic kombucha drink.
+I175,Grapefruit Juice,DRK,Fresh Press,1.95,GBP,1 L,Freshly pressed grapefruit juice.
+I176,Passion Fruit Juice,DRK,Fresh Press,2.20,GBP,1 L,Tropical passion fruit juice.
+I177,Berry Smoothie,DRK,Fresh Press,2.50,GBP,250 ml,Mixed berry fruit smoothie.
+I178,Mango Smoothie,DRK,Fresh Press,2.50,GBP,250 ml,Mango and pineapple smoothie.
+I179,Collagen Drink,DRK,Boost Up,4.80,GBP,250 ml,Collagen and vitamin C drink.
+I180,Vitamin Water,DRK,Boost Up,1.50,GBP,500 ml,Citrus electrolyte vitamin water.
+I181,Vanilla Coffee Syrup,DRK,Bean Yard,5.50,GBP,250 ml,Vanilla flavour coffee syrup.
+I182,Hazelnut Coffee Syrup,DRK,Bean Yard,5.50,GBP,250 ml,Hazelnut flavour coffee syrup.
+I183,Matcha Powder,DRK,Leaf and Co,6.50,GBP,100 g,Ceremonial grade matcha powder.
+I184,Apple Cider Vinegar Drink,DRK,Meadow Gold,2.80,GBP,500 ml,Diluted apple cider vinegar drink.
+I185,Beetroot Juice,DRK,Fresh Press,3.10,GBP,750 ml,Cold-pressed raw beetroot juice.
+I186,Pomegranate Juice,DRK,Fresh Press,3.50,GBP,750 ml,Pure pomegranate juice drink.
+I187,Ginger Shot,DRK,Leaf and Co,2.20,GBP,60 ml,Raw ginger and lemon shot.
+I188,Probiotic Drink,DRK,Boost Up,1.80,GBP,100 ml,Daily probiotic culture drink.
+I189,Kefir Drink,DRK,North Farm,2.50,GBP,500 ml,Plain fermented milk kefir.
+I190,Cold Brew Coffee,DRK,Bean Yard,3.20,GBP,250 ml,Ready-to-drink cold brew coffee.
+I191,White Chocolate Bar,SNK,Cocoa Lane,1.30,GBP,100 g,Smooth white chocolate bar.
+I192,Chilli Chocolate Bar,SNK,Cocoa Lane,1.75,GBP,100 g,Dark chocolate with chilli.
+I193,Orange Chocolate Bar,SNK,Cocoa Lane,1.65,GBP,100 g,Dark chocolate and orange.
+I194,Mint Chocolate Bar,SNK,Cocoa Lane,1.60,GBP,100 g,Mint flavoured dark chocolate.
+I195,Caramel Popcorn,SNK,Movie Night,1.25,GBP,90 g,Sweet caramel coated popcorn.
+I196,Sweet Chilli Crisps,SNK,Crunch Works,1.25,GBP,150 g,Sweet chilli flavour crisps.
+I197,Sour Cream Crisps,SNK,Crunch Works,1.25,GBP,150 g,Sour cream and chive crisps.
+I198,BBQ Crisps,SNK,Crunch Works,1.25,GBP,150 g,Smoky BBQ flavour crisps.
+I199,Prawn Cocktail Crisps,SNK,Crunch Works,1.25,GBP,150 g,Classic prawn cocktail crisps.
+I200,Corn Chips,SNK,Crunch Works,1.60,GBP,200 g,Lightly salted tortilla corn chips.
+I201,Salsa Dip,SNK,Crunch Works,1.80,GBP,300 g,Chunky tomato salsa dip.
+I202,Hummus,SNK,Harvest Tin,1.50,GBP,200 g,Classic chickpea hummus.
+I203,Guacamole,SNK,Crunch Works,1.80,GBP,150 g,Fresh avocado guacamole.
+I204,Mixed Nuts,SNK,Nut Path,3.20,GBP,200 g,Roasted mixed nut blend.
+I205,Macadamia Nuts,SNK,Nut Path,4.80,GBP,150 g,Honey roasted macadamia nuts.
+I206,Pecan Nuts,SNK,Nut Path,4.20,GBP,150 g,Natural halved pecan nuts.
+I207,Dried Mango,SNK,Nut Path,2.60,GBP,100 g,Sweet dried mango strips.
+I208,Dried Cranberries,SNK,Nut Path,2.40,GBP,200 g,Sweetened dried cranberries.
+I209,Fruit and Nut Mix,SNK,Nut Path,2.80,GBP,200 g,Premium fruit and nut mix.
+I210,Chocolate Raisins,SNK,Cocoa Lane,2.20,GBP,150 g,Milk chocolate-coated raisins.
+I211,Protein Bar Choc,SNK,Boost Up,2.80,GBP,60 g,High protein chocolate bar.
+I212,Protein Bar Berry,SNK,Boost Up,2.80,GBP,60 g,High protein berry bar.
+I213,Flapjack,SNK,Tea Table,1.40,GBP,90 g,Chewy golden syrup flapjack.
+I214,Digestive Biscuits,SNK,Tea Table,1.25,GBP,400 g,Classic wheat digestive biscuits.
+I215,Rich Tea Biscuits,SNK,Tea Table,1.05,GBP,300 g,Light and crisp rich tea biscuits.
+I216,Ginger Snaps,SNK,Tea Table,1.20,GBP,250 g,Crispy ginger snap biscuits.
+I217,Custard Creams,SNK,Tea Table,1.15,GBP,300 g,Classic custard cream biscuits.
+I218,Bourbon Biscuits,SNK,Tea Table,1.15,GBP,300 g,Chocolate bourbon cream biscuits.
+I219,Party Rings,SNK,Tea Table,1.40,GBP,250 g,Colourful iced party ring biscuits.
+I220,Fig Rolls,SNK,Tea Table,1.30,GBP,200 g,Classic fig-filled roll biscuits.
+I221,Jaffa Cakes,SNK,Tea Table,1.60,GBP,12 pack,Orange and chocolate jaffa cakes.
+I222,Hobnobs,SNK,Tea Table,1.65,GBP,300 g,Oat crunch hobnob biscuits.
+I223,Roasted Chickpeas,SNK,Nut Path,2.10,GBP,100 g,Crispy roasted chickpea snack.
+I224,Beetroot Crisps,SNK,Crunch Works,1.90,GBP,80 g,Thinly sliced beetroot crisps.
+I225,Kale Crisps,SNK,Crunch Works,2.20,GBP,50 g,Lightly seasoned kale crisps.
+I226,Veggie Straws,SNK,Crunch Works,1.80,GBP,100 g,Mixed vegetable straw crisps.
+I227,Pitta Chips,SNK,Crunch Works,1.70,GBP,150 g,Baked pitta bread chips.
+I228,Oat Crackers,SNK,Tea Table,1.40,GBP,200 g,Crunchy Scottish oat crackers.
+I229,Cheese Crackers,SNK,Tea Table,1.50,GBP,200 g,Thin cheese-flavoured crackers.
+I230,Seaweed Snack,SNK,Golden Wok,1.80,GBP,15 g,Lightly salted roasted nori sheets.
+I231,Wasabi Peas,SNK,Golden Wok,2.10,GBP,100 g,Crispy wasabi-coated peas.
+I232,Chocolate Almonds,SNK,Cocoa Lane,3.20,GBP,150 g,Dark chocolate coated almonds.
+I233,Honey Cereal Bar,SNK,Morning Mill,1.50,GBP,35 g,Oat and honey cereal bar.
+I234,Date and Almond Bar,SNK,Nut Path,2.50,GBP,45 g,Medjool date and almond bar.
+I235,Choco Hazelnut Spread,SNK,Cocoa Lane,3.80,GBP,400 g,Cocoa and hazelnut spread.
+I236,Almond Butter,SNK,Nut Path,4.50,GBP,340 g,Smooth roasted almond butter.
+I237,Cashew Butter,SNK,Nut Path,4.80,GBP,340 g,Smooth cashew nut butter.
+I238,Sunflower Seed Butter,SNK,Nut Path,3.90,GBP,340 g,Nut-free sunflower seed butter.
+I239,Cheese Popcorn,SNK,Movie Night,1.25,GBP,90 g,Cheese-flavoured popcorn.
+I240,Salted Pretzels,SNK,Crunch Works,1.40,GBP,175 g,Crispy salted pretzel sticks.
+I241,Whole Milk Loaf,BAK,Daily Bread,2.30,GBP,1 loaf,Soft whole milk sandwich loaf.
+I242,Farmhouse Loaf,BAK,Daily Bread,2.50,GBP,1 loaf,Traditional farmhouse white loaf.
+I243,Malted Bloomer,BAK,Daily Bread,2.80,GBP,1 loaf,Malted grain bloomer loaf.
+I244,Tiger Bread,BAK,Daily Bread,2.60,GBP,1 loaf,Crusty Dutch crunch tiger bread.
+I245,Sliced Brioche,BAK,Butter Corner,2.90,GBP,1 loaf,Enriched sliced brioche loaf.
+I246,Focaccia,BAK,Butter Corner,3.10,GBP,1 loaf,Rosemary and sea salt focaccia.
+I247,Ciabatta Rolls,BAK,Butter Corner,1.80,GBP,4 pack,Rustic Italian ciabatta rolls.
+I248,Garlic Bread,BAK,Butter Corner,2.20,GBP,2 halves,Butter and garlic baguette.
+I249,Cheese and Onion Roll,BAK,Butter Corner,1.20,GBP,1 roll,Freshly baked cheese onion roll.
+I250,Wholemeal Roll,BAK,Daily Bread,0.90,GBP,1 roll,Seeded wholemeal bread roll.
+I251,Burger Buns,BAK,Kitchen Fold,1.50,GBP,4 pack,Sesame seed burger buns.
+I252,Hot Dog Rolls,BAK,Kitchen Fold,1.35,GBP,6 pack,Soft long hot dog rolls.
+I253,Plain Naan,BAK,Kitchen Fold,1.80,GBP,2 pack,Plain tandoor naan breads.
+I254,Garlic Naan,BAK,Kitchen Fold,1.90,GBP,2 pack,Garlic and coriander naan.
+I255,Chapati,BAK,Kitchen Fold,1.40,GBP,8 pack,Thin unleavened chapati breads.
+I256,Corn Tortillas,BAK,Kitchen Fold,1.80,GBP,12 pack,Mini corn tortillas for tacos.
+I257,Crumpets,BAK,Daily Bread,1.30,GBP,6 pack,Thick fluffy crumpets.
+I258,Blueberry Waffles,BAK,Butter Corner,2.80,GBP,4 pack,Blueberry Belgian waffles.
+I259,Pancakes,BAK,Butter Corner,2.40,GBP,6 pack,Ready-made American pancakes.
+I260,Glazed Doughnuts,BAK,Butter Corner,3.00,GBP,4 pack,Glazed ring doughnuts.
+I261,Jam Doughnuts,BAK,Butter Corner,3.20,GBP,4 pack,Jam-filled ring doughnuts.
+I262,Iced Buns,BAK,Butter Corner,2.50,GBP,4 pack,Soft white iced finger buns.
+I263,Chelsea Buns,BAK,Butter Corner,3.10,GBP,4 pack,Sticky glazed Chelsea buns.
+I264,Eccles Cakes,BAK,Butter Corner,2.40,GBP,4 pack,Traditional currant Eccles cakes.
+I265,Lemon Drizzle Loaf,BAK,Butter Corner,3.80,GBP,1 loaf,Zesty lemon drizzle cake loaf.
+I266,Banana Bread,BAK,Butter Corner,3.50,GBP,1 loaf,Moist banana and walnut loaf.
+I267,Carrot Cake,BAK,Butter Corner,4.20,GBP,1 loaf,Spiced carrot cake with icing.
+I268,Gingerbread Loaf,BAK,Butter Corner,2.60,GBP,1 loaf,Moist treacle gingerbread loaf.
+I269,Rock Cakes,BAK,Butter Corner,2.20,GBP,4 pack,Fruity traditional rock cakes.
+I270,Seeded Baguette,BAK,Daily Bread,1.80,GBP,1 baguette,Crusty seeded baguette.
+I271,Hot Cross Buns,BAK,Butter Corner,2.00,GBP,6 pack,Spiced hot cross buns.
+I272,Flatbreads,BAK,Kitchen Fold,1.45,GBP,4 pack,Soft tandoor-style flatbreads.
+I273,Danish Pastries,BAK,Butter Corner,3.50,GBP,4 pack,Assorted buttery Danish pastries.
+I274,English Muffins,BAK,Daily Bread,1.70,GBP,6 pack,Fluffy English breakfast muffins.
+I275,Rye Crispbread,BAK,Daily Bread,2.20,GBP,200 g,Crispy rye crispbread slices.
+I276,Cheese Scones,BAK,Butter Corner,2.60,GBP,4 pack,Freshly baked cheese scones.
+I277,Pikelets,BAK,Daily Bread,1.20,GBP,6 pack,Light and airy pikelets.
+I278,Soda Bread,BAK,Daily Bread,2.40,GBP,1 loaf,Traditional Irish soda bread.
+I279,Walnut Loaf,BAK,Butter Corner,3.20,GBP,1 loaf,Seeded walnut and raisin loaf.
+I280,Spelt Loaf,BAK,Daily Bread,3.50,GBP,1 loaf,Organic spelt grain loaf.
+I281,Frozen Edamame,FRZ,Cold Field,2.10,GBP,500 g,Ready-to-steam edamame beans.
+I282,Frozen Cauliflower,FRZ,Cold Field,1.40,GBP,500 g,Frozen cauliflower florets.
+I283,Frozen Green Beans,FRZ,Cold Field,1.20,GBP,500 g,Whole frozen fine green beans.
+I284,Frozen Diced Carrots,FRZ,Cold Field,1.10,GBP,500 g,Diced frozen carrots.
+I285,Frozen Onion Rings,FRZ,Cold Field,1.80,GBP,400 g,Crispy battered onion rings.
+I286,Hash Browns,FRZ,Cold Field,2.00,GBP,500 g,Crispy potato hash browns.
+I287,Roast Potatoes,FRZ,Cold Field,2.50,GBP,800 g,Crispy goose fat roasties.
+I288,Yorkshire Puddings,FRZ,Cold Field,1.60,GBP,12 pack,Frozen Yorkshire puddings.
+I289,Fish Cakes,FRZ,Harbour Catch,3.20,GBP,2 pack,Traditional cod fish cakes.
+I290,Spring Rolls,FRZ,Golden Wok,3.20,GBP,6 pack,Crispy vegetable spring rolls.
+I291,Pork Gyoza,FRZ,Golden Wok,3.80,GBP,12 pack,Pan-fried pork gyoza dumplings.
+I292,Mozzarella Sticks,FRZ,Stone Oven,2.80,GBP,8 pack,Breaded mozzarella sticks.
+I293,Mac and Cheese,FRZ,Stone Oven,3.50,GBP,400 g,Frozen macaroni cheese bake.
+I294,Beef Lasagne,FRZ,Stone Oven,4.50,GBP,500 g,Beef and tomato lasagne.
+I295,Shepherds Pie,FRZ,Farm Gate,4.20,GBP,400 g,Lamb shepherds pie.
+I296,Cottage Pie,FRZ,Farm Gate,4.00,GBP,400 g,Minced beef cottage pie.
+I297,Chicken Kiev,FRZ,Farm Gate,4.80,GBP,2 pack,Garlic butter chicken kievs.
+I298,Pork Sausages,FRZ,Farm Gate,3.50,GBP,8 pack,Classic pork sausages.
+I299,Beef Mince,FRZ,Farm Gate,4.20,GBP,500 g,Lean frozen beef mince.
+I300,Salmon Fillets,FRZ,Harbour Catch,5.50,GBP,2 pack,Atlantic salmon fillets.
+I301,Cod Fillets,FRZ,Harbour Catch,4.80,GBP,2 pack,Skinless cod loin fillets.
+I302,Smoked Haddock,FRZ,Harbour Catch,4.50,GBP,2 pack,Boneless smoked haddock.
+I303,Battered Cod,FRZ,Harbour Catch,4.20,GBP,2 pack,Beer-battered cod fillets.
+I304,Wholetail Scampi,FRZ,Harbour Catch,3.80,GBP,250 g,Breaded wholetail scampi.
+I305,King Prawns,FRZ,Harbour Catch,5.20,GBP,300 g,Cooked peeled king prawns.
+I306,Strawberry Ice Cream,FRZ,Sweet Scoop,3.40,GBP,900 ml,Strawberry ice cream tub.
+I307,Chocolate Ice Cream,FRZ,Sweet Scoop,3.40,GBP,900 ml,Rich chocolate ice cream tub.
+I308,Mint Choc Chip Ice Cream,FRZ,Sweet Scoop,3.40,GBP,900 ml,Mint choc chip ice cream.
+I309,Frozen Cheesecake,FRZ,Sweet Scoop,4.80,GBP,500 g,Baked New York cheesecake.
+I310,Choc Fudge Cake,FRZ,Sweet Scoop,4.50,GBP,500 g,Frozen chocolate fudge cake.
+I311,Tiramisu,FRZ,Sweet Scoop,5.20,GBP,500 g,Classic Italian tiramisu dessert.
+I312,Chocolate Profiteroles,FRZ,Sweet Scoop,3.80,GBP,18 pack,Frozen chocolate profiteroles.
+I313,Frozen Mango Chunks,FRZ,Cold Field,2.80,GBP,400 g,Frozen pre-cut mango pieces.
+I314,Frozen Pineapple,FRZ,Cold Field,2.60,GBP,400 g,Frozen pineapple chunks.
+I315,Frozen Mixed Veg,FRZ,Cold Field,1.80,GBP,1 kg,Classic frozen mixed vegetables.
+I316,Veggie Sausages,FRZ,North Farm,3.50,GBP,8 pack,Plant-based frozen sausages.
+I317,Veggie Burgers,FRZ,North Farm,3.80,GBP,4 pack,Pea and beetroot veggie burgers.
+I318,Baked Falafels,FRZ,Golden Wok,3.20,GBP,12 pack,Oven-bake chickpea falafels.
+I319,Turkey Mince,FRZ,Farm Gate,4.00,GBP,500 g,Lean frozen turkey mince.
+I320,Chicken Thighs,FRZ,Farm Gate,4.20,GBP,6 pack,Skin-on frozen chicken thighs.
+I321,Chicken Breasts,FRZ,Farm Gate,5.50,GBP,4 pack,Boneless frozen chicken breasts.
+I322,Tempura Prawns,FRZ,Harbour Catch,4.50,GBP,200 g,Crispy tempura battered prawns.
+I323,Calamari Rings,FRZ,Harbour Catch,3.80,GBP,250 g,Crispy battered calamari rings.
+I324,Fruit Ice Lollies,FRZ,Sweet Scoop,2.50,GBP,6 pack,Fruit juice frozen ice lollies.
+I325,Choc Ice Bars,FRZ,Sweet Scoop,3.20,GBP,6 pack,Chocolate-coated ice cream bars.
+I326,Sweet Potato Fries,FRZ,Cold Field,2.40,GBP,750 g,Oven-bake sweet potato fries.
+I327,Potato Wedges,FRZ,Cold Field,2.20,GBP,750 g,Seasoned skin-on potato wedges.
+I328,Stuffed Crust Pizza,FRZ,Stone Oven,5.50,GBP,1 pizza,Cheese-stuffed crust frozen pizza.
+I329,Mini Pizzas,FRZ,Stone Oven,3.80,GBP,2 pack,Margherita mini frozen pizzas.
+I330,Vegetable Gratin,FRZ,Stone Oven,3.80,GBP,400 g,Creamy vegetable gratin bake.
+I331,Double Toilet Rolls,HOU,Home Roll,5.50,GBP,18 rolls,Double-length soft toilet tissue.
+I332,Facial Tissues,HOU,Home Roll,1.80,GBP,100 pack,Soft pocket facial tissues.
+I333,Baking Parchment,HOU,Home Roll,2.20,GBP,10 m,Silicone-coated baking paper.
+I334,Greaseproof Paper,HOU,Home Roll,1.80,GBP,10 m,Food-grade greaseproof paper.
+I335,Sandwich Bags,HOU,Home Roll,1.60,GBP,50 pack,Resealable sandwich bags.
+I336,Zip Lock Bags,HOU,Home Roll,2.00,GBP,30 pack,Resealable freezer zip bags.
+I337,Rubber Gloves,HOU,Clean Hands,2.20,GBP,1 pair,Heavy duty rubber household gloves.
+I338,Dish Brush,HOU,Shine Home,1.80,GBP,1 unit,Long-handle washing up brush.
+I339,Bottle Brush,HOU,Shine Home,1.90,GBP,1 unit,Flexible bottle cleaning brush.
+I340,Glass Cleaner,HOU,Shine Home,2.40,GBP,500 ml,Streak-free glass and mirror cleaner.
+I341,Floor Cleaner,HOU,Shine Home,3.20,GBP,750 ml,Multi-floor surface cleaner.
+I342,Oven Cleaner,HOU,Shine Home,3.80,GBP,500 ml,Heavy-duty oven degreaser spray.
+I343,Toilet Cleaner,HOU,Shine Home,2.20,GBP,750 ml,Thick bleach toilet cleaner gel.
+I344,Household Bleach,HOU,Shine Home,1.80,GBP,750 ml,Thick household bleach.
+I345,Drain Unblocker,HOU,Shine Home,3.50,GBP,500 ml,Foam drain unblocker liquid.
+I346,Mould Remover,HOU,Shine Home,3.20,GBP,500 ml,Anti-mould spray for bathrooms.
+I347,Stain Remover,HOU,Shine Home,3.80,GBP,500 ml,Pre-wash stain remover spray.
+I348,Colour Wash Tablets,HOU,Shine Home,6.50,GBP,40 pack,Concentrated colour wash tablets.
+I349,White Wash Tablets,HOU,Shine Home,6.50,GBP,40 pack,Non-bio white wash tablets.
+I350,Washing Up Liquid,HOU,Shine Home,1.60,GBP,500 ml,Ultra-concentrate washing up liquid.
+I351,Rinse Aid,HOU,Shine Home,3.20,GBP,500 ml,Dishwasher rinse aid liquid.
+I352,Dishwasher Salt,HOU,Shine Home,2.80,GBP,1 kg,Coarse dishwasher salt.
+I353,Ironing Water,HOU,Shine Home,1.50,GBP,1 L,Scented ironing water spray.
+I354,Black Shoe Polish,HOU,Shine Home,2.50,GBP,50 ml,Black wax shoe polish tin.
+I355,Jumbo Kitchen Roll,HOU,Home Roll,3.50,GBP,4 rolls,Jumbo absorbent kitchen rolls.
+I356,Cotton Wool Pads,HOU,Clean Hands,1.80,GBP,100 pack,Round cotton-wool cleansing pads.
+I357,Cotton Buds,HOU,Clean Hands,1.50,GBP,200 pack,Paper-stem cotton buds.
+I358,Antibacterial Wipes,HOU,Clean Hands,2.20,GBP,80 pack,Multi-surface antibacterial wipes.
+I359,Air Freshener Spray,HOU,Home Glow,2.40,GBP,300 ml,Spring breeze room spray.
+I360,Reed Diffuser,HOU,Home Glow,8.50,GBP,100 ml,Linen and white cedar diffuser.
+I361,Scented Candle,HOU,Home Glow,6.50,GBP,1 unit,Lavender soy wax candle jar.
+I362,Safety Matches,HOU,Home Glow,1.20,GBP,250 pack,Long multipurpose safety matches.
+I363,AAA Batteries,HOU,Home Glow,3.80,GBP,8 pack,Long-life AAA alkaline batteries.
+I364,AA Batteries,HOU,Home Glow,3.80,GBP,8 pack,Long-life AA alkaline batteries.
+I365,Microfibre Cloths,HOU,Shine Home,3.50,GBP,5 pack,Lint-free microfibre cloths.
+I366,Feather Duster,HOU,Shine Home,2.50,GBP,1 unit,Extendable feather duster.
+I367,Clothes Pegs,HOU,Home Roll,1.80,GBP,50 pack,Wooden clothes pegs.
+I368,Adhesive Wall Hooks,HOU,Home Glow,3.20,GBP,5 pack,Removable adhesive wall hooks.
+I369,Washing Machine Cleaner,HOU,Shine Home,3.80,GBP,3 pack,Monthly washing machine descaler.
+I370,Kettle Descaler,HOU,Shine Home,2.80,GBP,3 pack,Citric acid kettle descaler sachets.
+I371,Bamboo Toothbrush,HOU,Clean Hands,2.80,GBP,1 unit,Biodegradable bamboo toothbrush.
+I372,Toothpaste,HOU,Clean Hands,2.20,GBP,100 ml,Fluoride whitening toothpaste.
+I373,Dental Floss,HOU,Clean Hands,1.80,GBP,50 m,Waxed mint dental floss.
+I374,Mouthwash,HOU,Clean Hands,2.50,GBP,500 ml,Alcohol-free mint mouthwash.
+I375,Face Wash,HOU,Clean Hands,3.80,GBP,150 ml,Gentle foaming face wash gel.
+I376,Shower Gel,HOU,Clean Hands,2.50,GBP,250 ml,Refreshing citrus shower gel.
+I377,Shampoo,HOU,Clean Hands,3.20,GBP,300 ml,Gentle everyday shampoo.
+I378,Conditioner,HOU,Clean Hands,3.20,GBP,300 ml,Smoothing hair conditioner.
+I379,Roll-On Deodorant,HOU,Clean Hands,2.80,GBP,150 ml,48-hour roll-on deodorant.
+I380,Shaving Foam,HOU,Clean Hands,2.20,GBP,200 ml,Sensitive skin shaving foam.
+I381,Sunscreen SPF50,HOU,Clean Hands,6.80,GBP,200 ml,SPF50 water-resistant sunscreen.
+I382,Lip Balm,HOU,Clean Hands,1.80,GBP,4.8 g,SPF20 moisturising lip balm.
+I383,Hand Cream,HOU,Clean Hands,2.80,GBP,75 ml,Intensive repair hand cream.
+I384,Body Lotion,HOU,Clean Hands,3.50,GBP,200 ml,Cocoa butter body lotion.
+I385,Waterproof Plasters,HOU,Clean Hands,2.50,GBP,40 pack,Assorted waterproof plasters.
+I386,Paracetamol Tablets,HOU,Clean Hands,1.80,GBP,16 pack,Paracetamol 500mg tablets.
+I387,Vitamin C Tablets,HOU,Clean Hands,4.50,GBP,60 tablets,1000mg effervescent vitamin C.
+I388,Vitamin D Drops,HOU,Clean Hands,5.50,GBP,20 ml,High strength vitamin D3 drops.
+I389,Multivitamin Tablets,HOU,Clean Hands,6.50,GBP,30 tablets,Complete daily multivitamin.
+I390,First Aid Kit,HOU,Clean Hands,8.50,GBP,1 kit,Basic home first aid kit.
+I391,Marmite,DRY,Golden Grain,3.20,GBP,250 g,Concentrated yeast extract spread.
+I392,Tahini,DRY,Harvest Tin,3.80,GBP,300 g,Sesame seed paste for cooking.
+I393,Fish Sauce,DRY,Golden Wok,2.40,GBP,200 ml,Thai-style fermented fish sauce.
+I394,Oyster Sauce,DRY,Golden Wok,2.80,GBP,255 g,Rich oyster flavour sauce.
+I395,Hoisin Sauce,DRY,Golden Wok,2.50,GBP,255 g,Sweet hoisin barbecue sauce.
+I396,Teriyaki Sauce,DRY,Golden Wok,2.60,GBP,150 ml,Sweet soy teriyaki glaze.
+I397,Worcestershire Sauce,DRY,Harvest Tin,1.80,GBP,150 ml,Classic Worcestershire sauce.
+I398,Tabasco Sauce,DRY,Harvest Tin,2.20,GBP,60 ml,Original cayenne hot sauce.
+I399,Sriracha Sauce,DRY,Harvest Tin,2.80,GBP,230 g,Thai chilli garlic sriracha.
+I400,Quinoa,DRY,North Farm,3.50,GBP,500 g,Organic white quinoa grain.
+I401,Buckwheat,DRY,Golden Grain,2.80,GBP,500 g,Raw organic buckwheat groats.
+I402,Polenta,DRY,Golden Grain,1.80,GBP,500 g,Fine instant polenta cornmeal.
+I403,Spelt Pasta,DRY,Pasta House,2.20,GBP,500 g,Ancient grain spelt pasta.
+I404,Gluten Free Pasta,DRY,Pasta House,2.50,GBP,500 g,Brown rice gluten-free penne.
+I405,Protein Oats,DRY,Morning Mill,3.50,GBP,500 g,High protein oat blend.
+I406,Honey Almond Granola,DRY,Morning Mill,3.20,GBP,500 g,Honey and almond granola.
+I407,Bran Flakes,DRY,Morning Mill,2.20,GBP,500 g,High fibre wheat bran flakes.
+I408,Corn Flakes,DRY,Morning Mill,2.10,GBP,500 g,Classic toasted corn flakes.
+I409,Shredded Wheat,DRY,Morning Mill,2.50,GBP,437 g,Whole grain shredded wheat biscuits.
+I410,Canned Sweetcorn,DRY,Harvest Tin,0.75,GBP,340 g,Sweetcorn kernels in water.
+I411,Canned Tuna,DRY,Harbour Catch,1.20,GBP,145 g,Tuna chunks in brine.
+I412,Canned Salmon,DRY,Harbour Catch,2.20,GBP,213 g,Pink salmon in brine.
+I413,Canned Sardines,DRY,Harbour Catch,1.50,GBP,120 g,Sardines in sunflower oil.
+I414,Canned Mackerel,DRY,Harbour Catch,1.60,GBP,125 g,Mackerel fillets in tomato sauce.
+I415,Oat Milk Barista,DRK,Morning Mill,2.10,GBP,1 L,Extra-creamy barista oat milk.
+I416,Sports Drink Orange,DRK,Boost Up,1.40,GBP,500 ml,Orange electrolyte sports drink.
+I417,Sports Drink Berry,DRK,Boost Up,1.40,GBP,500 ml,Berry electrolyte sports drink.
+I418,Protein Milk,DRK,Boost Up,2.20,GBP,500 ml,High protein flavoured milk.
+I419,Cashew Milk,DRK,Nut Path,2.20,GBP,1 L,Unsweetened cashew nut milk.
+I420,Hazelnut Milk,DRK,Nut Path,2.30,GBP,1 L,Lightly sweetened hazelnut milk.
+I421,Hemp Milk,DRK,North Farm,2.40,GBP,1 L,Unsweetened hemp seed milk.
+I422,Rice Milk,DRK,North Farm,1.80,GBP,1 L,Unsweetened rice-based milk.
+I423,Lemon Water,DRK,Spring Vale,0.90,GBP,500 ml,Still lemon-infused water.
+I424,Berry Water,DRK,Spring Vale,0.90,GBP,500 ml,Still strawberry-infused water.
+I425,Chai Latte Mix,DRK,Leaf and Co,4.50,GBP,250 g,Spiced masala chai latte blend.
+I426,Frozen Pancakes,FRZ,Morning Mill,2.20,GBP,8 pack,Frozen thick American pancakes.
+I427,Frozen Golden Waffles,FRZ,Morning Mill,2.80,GBP,8 pack,Frozen golden waffles.
+I428,Frozen Garlic Bread,FRZ,Butter Corner,1.80,GBP,2 halves,Par-baked frozen garlic baguette.
+I429,Beef Hot Dogs,FRZ,Farm Gate,3.20,GBP,6 pack,Beef frankfurter sausages.
+I430,Frozen Dumplings,FRZ,Golden Wok,3.50,GBP,16 pack,Steamed vegetable dumplings.
+I431,Frozen Lemon Tart,FRZ,Sweet Scoop,4.20,GBP,400 g,French-style frozen lemon tart.
+I432,Frozen Eclairs,FRZ,Sweet Scoop,3.80,GBP,6 pack,Chocolate cream frozen eclairs.
+I433,Frozen Smoothie Mix,FRZ,Cold Field,3.50,GBP,400 g,Pre-portioned frozen smoothie mix.
+I434,Corn on the Cob,FRZ,Cold Field,2.00,GBP,2 pack,Frozen whole corn on the cob.
+I435,Frozen Broad Beans,FRZ,Cold Field,1.90,GBP,450 g,Frozen podded broad beans.
+I436,Oven Gloves,HOU,Home Glow,5.50,GBP,1 pair,Heat-resistant silicone oven gloves.
+I437,Kitchen Apron,HOU,Home Glow,7.50,GBP,1 unit,Cotton cross-back kitchen apron.
+I438,Chopping Board,HOU,Home Glow,6.50,GBP,1 unit,Bamboo chopping and serving board.
+I439,Dish Drainer,HOU,Home Glow,8.50,GBP,1 unit,Stainless steel dish draining rack.
+I440,Measuring Jug,HOU,Home Glow,3.50,GBP,1 L,Clear plastic measuring jug.
+I441,Tin Opener,HOU,Home Glow,3.20,GBP,1 unit,Safety-edge manual tin opener.
+I442,Bottle Opener,HOU,Home Glow,2.50,GBP,1 unit,Stainless steel bottle opener.
+I443,Box Grater,HOU,Home Glow,4.50,GBP,1 unit,4-sided stainless steel box grater.
+I444,Swivel Peeler,HOU,Home Glow,2.80,GBP,1 unit,Ergonomic swivel blade peeler.
+I445,Garlic Press,HOU,Home Glow,4.20,GBP,1 unit,Stainless steel garlic crusher.
+I446,Pasta Colander,HOU,Home Glow,5.50,GBP,1 unit,Stainless steel pasta colander.
+I447,Mixing Bowl,HOU,Home Glow,4.80,GBP,1 unit,Large stainless steel mixing bowl.
+I448,Glass Storage Jar,HOU,Home Glow,3.50,GBP,500 ml,Glass storage jar with lid.
+I449,Ice Cube Tray,HOU,Home Glow,2.20,GBP,2 pack,Flexible silicone ice cube trays.
+I450,Tealights,HOU,Home Glow,3.20,GBP,50 pack,Unscented white tealight candles.
+I451,Silica Gel Bags,HOU,Home Glow,2.80,GBP,10 pack,Moisture-absorbing silica gel bags.
+I452,Laundry Bag,HOU,Home Glow,4.80,GBP,1 unit,Mesh delicates laundry wash bag.
+I453,Ironing Board Cover,HOU,Home Glow,6.50,GBP,1 unit,Thick foam ironing board cover.
+I454,Odour Eliminator,HOU,Home Glow,3.50,GBP,500 ml,Fabric and air odour neutraliser.
+I455,Toilet Rim Block,HOU,Shine Home,2.20,GBP,2 pack,Ocean fresh toilet rim blocks.
+I456,Cable Ties,HOU,Home Glow,1.80,GBP,50 pack,Black nylon cable ties.
+I457,Sticky Notes,HOU,Home Glow,2.10,GBP,100 pack,Bright yellow sticky note pads.
+I458,Clear Tape,HOU,Home Glow,1.40,GBP,2 rolls,Clear stationery tape rolls.
+I459,All-Purpose Scissors,HOU,Home Glow,3.20,GBP,1 unit,Stainless steel all-purpose scissors.
+I460,Candle Holder,HOU,Home Glow,3.80,GBP,1 unit,Glass tealight candle holder.
+I461,Drawer Liner,HOU,Home Glow,3.80,GBP,2 m,Non-slip foam drawer liner roll.
+I462,Plant Mister,HOU,Home Glow,4.20,GBP,1 unit,Fine mist spray plant bottle.
+I463,Potting Compost,HOU,Home Glow,5.50,GBP,5 L,Peat-free potting compost mix.
+I464,Plant Food Liquid,HOU,Home Glow,4.80,GBP,500 ml,All-purpose liquid plant feed.
+I465,Small Storage Box,HOU,Home Glow,4.50,GBP,5 L,Stackable plastic storage box.
+I466,Large Storage Box,HOU,Home Glow,8.50,GBP,30 L,Lidded large storage box.
+I467,Mousestrap,HOU,Home Glow,2.80,GBP,2 pack,Humane catch-and-release mousetraps.
+I468,Pest Trap,HOU,Home Glow,3.50,GBP,2 pack,Non-toxic insect glue traps.
+I469,Watering Can,HOU,Home Glow,6.50,GBP,1 L,Small indoor watering can.
+I470,Picture Hook,HOU,Home Glow,2.20,GBP,10 pack,Self-adhesive picture hanging hooks.
+I471,Eye Drops,HOU,Clean Hands,3.80,GBP,10 ml,Lubricating preservative-free eye drops.
+I472,Ibuprofen Tablets,HOU,Clean Hands,2.20,GBP,16 pack,Ibuprofen 200mg pain relief tablets.
+I473,Antihistamine Tablets,HOU,Clean Hands,3.20,GBP,12 pack,Non-drowsy antihistamine tablets.
+I474,Daily Moisturiser,HOU,Clean Hands,4.50,GBP,75 ml,Daily SPF15 face moisturiser.
+I475,Razor Blades,HOU,Clean Hands,5.50,GBP,8 pack,Triple-blade replacement cartridges.
+I476,Oat and Berry Cereal,DRY,Morning Mill,4.20,GBP,500 g,Oats with freeze-dried berries.
+I477,Chocolate Cereal,DRY,Morning Mill,3.20,GBP,375 g,Cocoa whole grain puffed cereal.
+I478,Ready Rice Brown,DRY,North Farm,1.90,GBP,250 g,Microwave-ready brown rice.
+I479,Ready Rice Quinoa,DRY,North Farm,2.10,GBP,250 g,Microwave-ready quinoa mix.
+I480,Gluten Free Oats,DRY,Morning Mill,2.80,GBP,500 g,Certified gluten-free rolled oats.
+I481,Frozen Soya Mince,FRZ,North Farm,3.20,GBP,500 g,Plant-based frozen soya mince.
+I482,Duck Legs,FRZ,Farm Gate,6.50,GBP,2 pack,Marinated frozen duck legs.
+I483,Lamb Chops,FRZ,Farm Gate,7.80,GBP,4 pack,Frozen lamb loin chops.
+I484,Pork Chops,FRZ,Farm Gate,5.50,GBP,4 pack,Thick cut frozen pork chops.
+I485,Cream of Tomato Soup,DRY,Harvest Tin,1.20,GBP,400 g,Canned cream of tomato soup.
+I486,Mushroom Soup,DRY,Harvest Tin,1.20,GBP,400 g,Canned cream of mushroom soup.
+I487,Minestrone Soup,DRY,Harvest Tin,1.30,GBP,400 g,Canned Italian minestrone soup.
+I488,Canned Baked Beans,DRY,Harvest Tin,0.75,GBP,415 g,Baked beans in tomato sauce.
+I489,Canned Peaches,DRY,Harvest Tin,1.10,GBP,410 g,Sliced peaches in juice.
+I490,Canned Pears,DRY,Harvest Tin,1.10,GBP,410 g,Pear halves in juice.
+I491,Canned Pineapple,DRY,Harvest Tin,1.05,GBP,432 g,Pineapple chunks in juice.
+I492,Frozen Broccoli,FRZ,Cold Field,1.25,GBP,500 g,Tender frozen broccoli florets.
+I493,Frozen Spinach,FRZ,Cold Field,1.30,GBP,400 g,Chopped frozen leaf spinach.
+I494,Frozen Sweetcorn,FRZ,Cold Field,1.05,GBP,500 g,Sweet frozen sweetcorn kernels.
+I495,Frozen Peas,FRZ,Cold Field,1.15,GBP,1 kg,Large bag of sweet garden peas.
+I496,Chips Oven Bake Large,FRZ,Cold Field,2.50,GBP,1.5 kg,Large bag of straight cut chips.
+I497,Crab Cakes,FRZ,Harbour Catch,4.20,GBP,2 pack,Seasoned crab and potato cakes.
+I498,Chocolate Granola,DRY,Morning Mill,3.50,GBP,400 g,Chocolate and almond granola.
+I499,Sriracha Mayo,DRY,Harvest Tin,2.50,GBP,250 g,Spicy sriracha mayonnaise.
+I500,Garlic Mayonnaise,DRY,Harvest Tin,2.20,GBP,250 g,Classic garlic aioli mayonnaise.
+I101,White Rice,DRY,North Farm,1.95,GBP,1 kg,Long-grain white rice.
