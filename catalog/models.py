@@ -1,3 +1,4 @@
+from django.conf import settings
 from django.db import models
 
 
@@ -31,3 +32,18 @@ class Item(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class Favourite(models.Model):
+    user = models.ForeignKey(
+        settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name="favourites"
+    )
+    item = models.ForeignKey(Item, on_delete=models.CASCADE, related_name="favourited_by")
+    added = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        unique_together = ("user", "item")
+        ordering = ["-added"]
+
+    def __str__(self):
+        return f"{self.user} — {self.item}"

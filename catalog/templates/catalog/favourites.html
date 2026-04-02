@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Favourites – Shopsite</title>
+  <style>
+    body { font-family: Georgia, serif; margin: 2rem; background: #f7f5ef; color: #22303c; }
+    main { max-width: 60rem; margin: 0 auto; background: #fffdf8; padding: 2rem; border: 1px solid #d8cfbf; }
+    table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+    th, td { border-bottom: 1px solid #e4dccd; padding: 0.75rem; text-align: left; }
+    a { color: #8c3d1f; text-decoration: none; }
+
+    nav {
+      display: flex;
+      gap: 1.5rem;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid #d8cfbf;
+      font-size: 0.9rem;
+    }
+
+    nav .site-title { font-weight: bold; font-size: 1.1rem; margin-right: auto; }
+
+    .fav-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 1rem;
+      color: #8c3d1f;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <nav>
+      <span class="site-title">Shopsite</span>
+      <a href="{% url 'item_list' %}">All Items</a>
+      <span>Hello, {{ user.username }}</span>
+      <form method="post" action="{% url 'logout' %}" style="margin:0">
+        {% csrf_token %}
+        <button type="submit" class="fav-btn">Log out</button>
+      </form>
+    </nav>
+
+    <h1>My Favourites</h1>
+
+    {% if favourites %}
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Remove</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for fav in favourites %}
+            <tr>
+              <td><a href="{% url 'item_detail' fav.item.id %}">{{ fav.item.name }}</a></td>
+              <td>{{ fav.item.category.name }}</td>
+              <td>{{ fav.item.price }} {{ fav.item.currency }}</td>
+              <td>
+                <form method="post" action="{% url 'toggle_favourite' fav.item.id %}" style="margin:0">
+                  {% csrf_token %}
+                  <input type="hidden" name="next" value="{% url 'favourite_list' %}">
+                  <button type="submit" class="fav-btn" title="Remove from favourites">&#9733; Remove</button>
+                </form>
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% else %}
+      <p>You haven't saved any favourites yet. <a href="{% url 'item_list' %}">Browse items</a> and click &#9734; to save one.</p>
+    {% endif %}
+  </main>
+</body>
+</html>
