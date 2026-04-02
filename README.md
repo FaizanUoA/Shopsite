@@ -1,5 +1,3 @@
-# Assignment 1 Helper
-
 This helper project extends the Lecture 2 Django practical into a slightly richer data model.
 
 It includes:
