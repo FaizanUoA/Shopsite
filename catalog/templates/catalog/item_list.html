@@ -72,6 +72,23 @@
       color: #8c3d1f;
       padding: 0;
     }
+
+    .messages {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 1rem 0;
+    }
+
+    .message {
+      padding: 0.6rem 1rem;
+      border-left: 4px solid;
+      margin-bottom: 0.4rem;
+      font-size: 0.95rem;
+    }
+
+    .message-success { background: #f0f7f0; border-color: #4a8c4a; color: #2d5a2d; }
+    .message-error   { background: #fdf0f0; border-color: #c0392b; color: #7a1e1e; }
+    .message-warning { background: #fdf8e8; border-color: #d4a017; color: #7a5c00; }
   </style>
 </head>
 <body>
@@ -91,8 +108,15 @@
       {% endif %}
     </nav>
 
+    {% if messages %}
+      <ul class="messages">
+        {% for message in messages %}
+          <li class="message message-{{ message.tags }}">{{ message }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <h1>Shopping Items</h1>
-    <p>This page lists items imported from the offline CSV dataset and linked to their categories.</p>
 
     <form method="get">
       <label for="search">Search by name</label>
