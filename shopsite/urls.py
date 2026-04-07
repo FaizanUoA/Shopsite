@@ -1,24 +1,22 @@
-"""
-URL configuration for shopsite project.
+# Root URL configuration for the entire Shopsite project.
+# All three blocks below are included rather than defined here, which keeps
+# this file clean and delegates the actual URL logic to each app.
+#
+#   /admin/      -- Django's built-in admin panel
+#   /accounts/   -- Django's built-in auth views (login, logout, password change)
+#   /            -- Everything in the catalog app (item list, detail, favourites, register)
 
-The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/5.2/topics/http/urls/
-Examples:
-Function views
-    1. Add an import:  from my_app import views
-    2. Add a URL to urlpatterns:  path('', views.home, name='home')
-Class-based views
-    1. Add an import:  from other_app.views import Home
-    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
-Including another URLconf
-    1. Import the include() function: from django.urls import include, path
-    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
-"""
 from django.contrib import admin
 from django.urls import include, path
 
 urlpatterns = [
+    # Django admin interface — useful for managing data during development
     path('admin/', admin.site.urls),
+
+    # Hooks in Django's own login/logout views at /accounts/login/ and /accounts/logout/
+    # so we don't have to write authentication views ourselves
     path("accounts/", include("django.contrib.auth.urls")),
+
+    # Mount the catalog app at the root so item_list is the homepage
     path("", include("catalog.urls")),
 ]
